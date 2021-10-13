@@ -1,6 +1,6 @@
 # Rendu du test React-Houdatech
 
-TCe project a été fait avec react-js [Create React App](https://github.com/facebook/create-react-app).
+Ce project a été fait avec react-js [Create React App](https://github.com/facebook/create-react-app).
 
 
 ## Description
