@@ -1,0 +1,18 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "nom": "marek",
+      "prenom": "abi",
+      "tel": "212217816723",
+      "email": "marek@gmail.com"
+    },
+    {
+      "nom": "leroy",
+      "prenom": "ab",
+      "email": "leroyab@gmail.com",
+      "tel": "+221781602634",
+      "id": 4
+    }
+  ]
+}
