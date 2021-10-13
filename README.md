@@ -28,9 +28,8 @@ Automatiquement, le navigateur s'ouvre sinon, vous ouvrez: [http://localhost:300
 
 Json-server est lancé grâce à cette commande. Sur le port 3004 ici, mais vous pouvez le changer.
 
-
-
-
+Image: 
+![Image of Yaktocat](https://github.com/mataa-hewa-leroy/houdatech-react-test/screenshot/Capture.PNG)
 
 
 
