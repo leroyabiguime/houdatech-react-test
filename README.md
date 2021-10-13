@@ -28,8 +28,7 @@ Automatiquement, le navigateur s'ouvre sinon, vous ouvrez: [http://localhost:300
 
 Json-server est lancé grâce à cette commande. Sur le port 3004 ici, mais vous pouvez le changer.
 
-Image: 
-![Image du projet](/screenshot/capture.png)
+
 
 
 
