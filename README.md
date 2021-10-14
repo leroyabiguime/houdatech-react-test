@@ -20,13 +20,13 @@ Vous vou placer dans le répertoire du projet puis:
 ### `npm start`
 
 Vous lancez le project dans un environement local, sur votre machine.\
-Automatiquement, le navigateur s'ouvre sinon, vous ouvrez: [http://localhost:3001](http://localhost:3001).
+Automatiquement, le navigateur s'ouvre sinon, vous ouvrez: [http://localhost:3000](http://localhost:3000).
 
 
 
-### `json-server --watch db.json --port 3004`
+### `json-server --watch db.json --port 3001`
 
-Json-server est lancé grâce à cette commande. Sur le port 3004 ici, mais vous pouvez le changer.
+Json-server est lancé grâce à cette commande. Sur le port 3001 ici, mais vous pouvez le changer.Mais sur ce project, l'API est brancher sur le port 3001 manuellement.
 
 
 
