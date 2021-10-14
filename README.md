@@ -20,7 +20,7 @@ Vous vou placer dans le répertoire du projet puis:
 ### `npm start`
 
 Vous lancez le project dans un environement local, sur votre machine.\
-Automatiquement, le navigateur s'ouvre sinon, vous ouvrez: [http://localhost:3000](http://localhost:3000).
+Automatiquement, le navigateur s'ouvre sinon, vous ouvrez: [http://localhost:3001](http://localhost:3001).
 
 
 
